@@ -51,7 +51,7 @@ class Surface(object):
 		c1 = self.countCrators(t1)
 		c2 = self.countCrators(t2)
 		change = (abs(float(c2 - c1)))/c2
-		print('{}, {}, {}'.format(c1, c2, change))
+		#print('{}, {}, {}'.format(c1, c2, change))
 		if(change > 0.05):
 			return True
 		else:
@@ -84,10 +84,17 @@ if __name__ == "__main__":
 
 	ti = []
 	num = []
-	for i in surf.impacts:
-		print i
-		ti.append(i.getCreation())
+	i = 0
+	while i < int(math.floor(len(surf.impacts) /2)):
+		print surf.impacts[i]
+		ti.append(surf.impacts[i].getCreation())
 		num.append(surf.countCrators(ti[len(ti) - 1]))
+		i += 1
+
+	#for i in surf.impacts:
+	#	print i
+	#	ti.append(i.getCreation())
+	#	num.append(surf.countCrators(ti[len(ti) - 1]))
 
 	plt.plot(ti, num)
 	plt.show()
