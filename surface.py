@@ -33,7 +33,7 @@ class Surface(object):
 					n.setOblit(n2.getCreation())
 
 	def inOblitRange(self, l1, l2):
-		#do fucking math here
+		#do pyth thm math here
 		x = abs(l1[0] - l2[0])
 		y = abs(l1[1] - l2[1])
 		if((x ** 2) + (y ** 2) < (30 ** 2)):
