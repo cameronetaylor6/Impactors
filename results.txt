@@ -1,0 +1,468 @@
+Location:(338, 173). Time Created: 0. Obliterated at:126913.
+Location:(176, 487). Time Created: 882. Obliterated at:13906.
+Location:(99, 85). Time Created: 1393. Obliterated at:10696.
+Location:(23, 176). Time Created: 1450. Obliterated at:103412.
+Location:(51, 454). Time Created: 3053. Obliterated at:12729.
+Location:(46, 376). Time Created: 3561. Obliterated at:95944.
+Location:(497, 499). Time Created: 4328. Obliterated at:353426.
+Location:(160, 417). Time Created: 4824. Obliterated at:72191.
+Location:(398, 218). Time Created: 7400. Obliterated at:92644.
+Location:(301, 378). Time Created: 7794. Obliterated at:49951.
+Location:(182, 337). Time Created: 10287. Obliterated at:30247.
+Location:(79, 86). Time Created: 10696. Obliterated at:37482.
+Location:(249, 257). Time Created: 11725. Obliterated at:15847.
+Location:(219, 228). Time Created: 12144. Obliterated at:216263.
+Location:(36, 467). Time Created: 12729. Obliterated at:81383.
+Location:(383, 10). Time Created: 12946. Obliterated at:328213.
+Location:(131, 312). Time Created: 13218. Obliterated at:125304.
+Location:(155, 500). Time Created: 13906. Obliterated at:76777.
+Location:(357, 311). Time Created: 13994. Obliterated at:106826.
+Location:(8, 346). Time Created: 15007. Obliterated at:218096.
+Location:(265, 260). Time Created: 15847. Obliterated at:118977.
+Location:(411, 61). Time Created: 15980. Obliterated at:33569.
+Location:(197, 409). Time Created: 16792. Obliterated at:355868.
+Location:(48, 11). Time Created: 17365. Obliterated at:58149.
+Location:(372, 359). Time Created: 17520. Obliterated at:96850.
+Location:(437, 456). Time Created: 18053. Obliterated at:35708.
+Location:(228, 307). Time Created: 20188. Obliterated at:97146.
+Location:(335, 230). Time Created: 21854. Obliterated at:77991.
+Location:(30, 432). Time Created: 22957. Obliterated at:135023.
+Location:(5, 19). Time Created: 24761. Obliterated at:233054.
+Location:(30, 281). Time Created: 24888. Obliterated at:54066.
+Location:(120, 53). Time Created: 25765. Obliterated at:79419.
+Location:(448, 402). Time Created: 25777. Obliterated at:94320.
+Location:(232, 393). Time Created: 25852. Obliterated at:263226.
+Location:(222, 486). Time Created: 26349. Obliterated at:30198.
+Location:(135, 356). Time Created: 27538. Obliterated at:138136.
+Location:(214, 494). Time Created: 30198. Obliterated at:194173.
+Location:(184, 330). Time Created: 30247. Obliterated at:97662.
+Location:(451, 207). Time Created: 31329. Obliterated at:79743.
+Location:(427, 135). Time Created: 31911. Obliterated at:54529.
+Location:(409, 49). Time Created: 33569. Obliterated at:82111.
+Location:(221, 81). Time Created: 33877. Obliterated at:188761.
+Location:(456, 440). Time Created: 35708. Obliterated at:76000.
+Location:(82, 298). Time Created: 37240. Obliterated at:129037.
+Location:(92, 107). Time Created: 37482. Obliterated at:94339.
+Location:(479, 105). Time Created: 39381. Obliterated at:156682.
+Location:(186, 372). Time Created: 40004. Obliterated at:373157.
+Location:(64, 134). Time Created: 41360. Obliterated at:46010.
+Location:(12, 130). Time Created: 41425. Obliterated at:170233.
+Location:(257, 411). Time Created: 41920. Obliterated at:153745.
+Location:(432, 349). Time Created: 42263. Obliterated at:123103.
+Location:(458, 500). Time Created: 42703. Obliterated at:86648.
+Location:(188, 131). Time Created: 43526. Obliterated at:127616.
+Location:(57, 263). Time Created: 44799. Obliterated at:109469.
+Location:(77, 159). Time Created: 46010. Obliterated at:92919.
+Location:(447, 299). Time Created: 48723. Obliterated at:107004.
+Location:(328, 346). Time Created: 48734. Obliterated at:136731.
+Location:(218, 159). Time Created: 49697. Obliterated at:74587.
+Location:(95, 208). Time Created: 49871. Obliterated at:117362.
+Location:(282, 376). Time Created: 49951. Obliterated at:136731.
+Location:(22, 309). Time Created: 54066. Obliterated at:64315.
+Location:(401, 125). Time Created: 54529. Obliterated at:65545.
+Location:(70, 491). Time Created: 54855. Obliterated at:290783.
+Location:(146, 76). Time Created: 56907. Obliterated at:132920.
+Location:(48, 14). Time Created: 58149. Obliterated at:100397.
+Location:(4, 287). Time Created: 64315. Obliterated at:244464.
+Location:(386, 101). Time Created: 65545. Obliterated at:91121.
+Location:(316, 91). Time Created: 71547. Obliterated at:129836.
+Location:(132, 417). Time Created: 72191. Obliterated at:118622.
+Location:(494, 296). Time Created: 72466. Obliterated at:254636.
+Location:(212, 181). Time Created: 74587. Obliterated at:109568.
+Location:(417, 78). Time Created: 75949. Obliterated at:238230.
+Location:(464, 462). Time Created: 76000. Obliterated at:412001.
+Location:(364, 148). Time Created: 76658. Obliterated at:129976.
+Location:(159, 492). Time Created: 76777. Obliterated at:197026.
+Location:(339, 217). Time Created: 77991. Obliterated at:178459.
+Location:(395, 414). Time Created: 78219. Obliterated at:91531.
+Location:(3, 203). Time Created: 78228. Obliterated at:267966.
+Location:(6, 229). Time Created: 78968. Obliterated at:267966.
+Location:(238, 440). Time Created: 79104. Obliterated at:104443.
+Location:(389, 268). Time Created: 79230. Obliterated at:136298.
+Location:(140, 31). Time Created: 79419. Obliterated at:170293.
+Location:(460, 229). Time Created: 79743. Obliterated at:166714.
+Location:(311, 281). Time Created: 80983. Obliterated at:122969.
+Location:(54, 453). Time Created: 81383. Obliterated at:119834.
+Location:(381, 59). Time Created: 82111. Obliterated at:131452.
+Location:(289, 479). Time Created: 83963. Obliterated at:198019.
+Location:(446, 491). Time Created: 86648. Is still intact.
+Location:(56, 91). Time Created: 87454. Obliterated at:317393.
+Location:(239, 1). Time Created: 87722. Obliterated at:308088.
+Location:(385, 121). Time Created: 91121. Obliterated at:129976.
+Location:(279, 231). Time Created: 91299. Obliterated at:307712.
+Location:(406, 399). Time Created: 91531. Obliterated at:194162.
+Location:(92, 396). Time Created: 92013. Obliterated at:173782.
+Location:(413, 227). Time Created: 92644. Obliterated at:136298.
+Location:(61, 152). Time Created: 92919. Obliterated at:164482.
+Location:(323, 444). Time Created: 93793. Obliterated at:243865.
+Location:(441, 403). Time Created: 94320. Obliterated at:166724.
+Location:(100, 103). Time Created: 94339. Obliterated at:175372.
+Location:(231, 263). Time Created: 94442. Obliterated at:118977.
+Location:(366, 390). Time Created: 95881. Obliterated at:96850.
+Location:(30, 388). Time Created: 95944. Obliterated at:140868.
+Location:(431, 265). Time Created: 96550. Obliterated at:136298.
+Location:(358, 375). Time Created: 96850. Obliterated at:286351.
+Location:(220, 331). Time Created: 97146. Obliterated at:99305.
+Location:(149, 459). Time Created: 97451. Obliterated at:197026.
+Location:(166, 312). Time Created: 97662. Obliterated at:118745.
+Location:(196, 448). Time Created: 97703. Obliterated at:104443.
+Location:(207, 317). Time Created: 99305. Obliterated at:102761.
+Location:(44, 13). Time Created: 100397. Obliterated at:160741.
+Location:(203, 316). Time Created: 102761. Obliterated at:117225.
+Location:(36, 200). Time Created: 103412. Obliterated at:389664.
+Location:(212, 440). Time Created: 104443. Obliterated at:115873.
+Location:(355, 318). Time Created: 106826. Obliterated at:173041.
+Location:(468, 278). Time Created: 107004. Obliterated at:173399.
+Location:(67, 271). Time Created: 109469. Obliterated at:129037.
+Location:(236, 190). Time Created: 109568. Obliterated at:114919.
+Location:(342, 53). Time Created: 114255. Obliterated at:220027.
+Location:(90, 174). Time Created: 114283. Obliterated at:117362.
+Location:(246, 168). Time Created: 114919. Obliterated at:174775.
+Location:(204, 448). Time Created: 115873. Is still intact.
+Location:(227, 310). Time Created: 117225. Obliterated at:139800.
+Location:(93, 183). Time Created: 117362. Obliterated at:256398.
+Location:(127, 410). Time Created: 118622. Obliterated at:229428.
+Location:(166, 309). Time Created: 118745. Obliterated at:125304.
+Location:(238, 255). Time Created: 118977. Obliterated at:265974.
+Location:(50, 466). Time Created: 119834. Obliterated at:135023.
+Location:(0, 90). Time Created: 121801. Obliterated at:189911.
+Location:(298, 304). Time Created: 122969. Obliterated at:149973.
+Location:(421, 323). Time Created: 123103. Obliterated at:135889.
+Location:(128, 269). Time Created: 124321. Obliterated at:137280.
+Location:(140, 316). Time Created: 125304. Obliterated at:138136.
+Location:(454, 69). Time Created: 125862. Obliterated at:156682.
+Location:(345, 175). Time Created: 126913. Obliterated at:284632.
+Location:(241, 35). Time Created: 127062. Obliterated at:170848.
+Location:(191, 148). Time Created: 127616. Obliterated at:281087.
+Location:(106, 466). Time Created: 128760. Obliterated at:167785.
+Location:(141, 214). Time Created: 128931. Obliterated at:152729.
+Location:(71, 286). Time Created: 129037. Obliterated at:214938.
+Location:(441, 297). Time Created: 129801. Obliterated at:135889.
+Location:(309, 77). Time Created: 129836. Obliterated at:341060.
+Location:(364, 141). Time Created: 129976. Obliterated at:133699.
+Location:(375, 74). Time Created: 131452. Obliterated at:283312.
+Location:(127, 60). Time Created: 132920. Obliterated at:187119.
+Location:(370, 133). Time Created: 133699. Obliterated at:142462.
+Location:(35, 444). Time Created: 135023. Obliterated at:188605.
+Location:(423, 296). Time Created: 135889. Obliterated at:173399.
+Location:(408, 250). Time Created: 136298. Obliterated at:307360.
+Location:(348, 411). Time Created: 136702. Obliterated at:185456.
+Location:(306, 365). Time Created: 136731. Obliterated at:141275.
+Location:(116, 292). Time Created: 137280. Obliterated at:272063.
+Location:(129, 343). Time Created: 138136. Obliterated at:232495.
+Location:(203, 300). Time Created: 139800. Obliterated at:260133.
+Location:(55, 415). Time Created: 140217. Obliterated at:276598.
+Location:(18, 412). Time Created: 140868. Obliterated at:308938.
+Location:(322, 351). Time Created: 141275. Is still intact.
+Location:(378, 156). Time Created: 142462. Obliterated at:343896.
+Location:(107, 217). Time Created: 145055. Obliterated at:197636.
+Location:(250, 367). Time Created: 149945. Obliterated at:151068.
+Location:(272, 296). Time Created: 149973. Obliterated at:185176.
+Location:(248, 350). Time Created: 151068. Obliterated at:178107.
+Location:(148, 238). Time Created: 152729. Obliterated at:200372.
+Location:(244, 438). Time Created: 153745. Obliterated at:246387.
+Location:(474, 88). Time Created: 156682. Obliterated at:169302.
+Location:(45, 317). Time Created: 156874. Obliterated at:214938.
+Location:(383, 423). Time Created: 159223. Obliterated at:167058.
+Location:(38, 22). Time Created: 160741. Obliterated at:233054.
+Location:(395, 349). Time Created: 163581. Obliterated at:249679.
+Location:(53, 154). Time Created: 164482. Is still intact.
+Location:(133, 160). Time Created: 165590. Obliterated at:271284.
+Location:(458, 216). Time Created: 166714. Obliterated at:283240.
+Location:(430, 379). Time Created: 166724. Obliterated at:314732.
+Location:(392, 436). Time Created: 167058. Obliterated at:185456.
+Location:(97, 450). Time Created: 167785. Obliterated at:279692.
+Location:(192, 73). Time Created: 168237. Obliterated at:234168.
+Location:(472, 109). Time Created: 169302. Is still intact.
+Location:(282, 436). Time Created: 170130. Obliterated at:198019.
+Location:(4, 155). Time Created: 170233. Obliterated at:184102.
+Location:(152, 16). Time Created: 170293. Obliterated at:233884.
+Location:(263, 49). Time Created: 170848. Obliterated at:174122.
+Location:(383, 316). Time Created: 173041. Obliterated at:249679.
+Location:(446, 285). Time Created: 173399. Obliterated at:364644.
+Location:(89, 403). Time Created: 173782. Obliterated at:276598.
+Location:(265, 24). Time Created: 174122. Obliterated at:242949.
+Location:(249, 112). Time Created: 174171. Obliterated at:188761.
+Location:(253, 152). Time Created: 174775. Obliterated at:188508.
+Location:(86, 122). Time Created: 175372. Obliterated at:440761.
+Location:(500, 58). Time Created: 176497. Obliterated at:298601.
+Location:(245, 360). Time Created: 178107. Obliterated at:223603.
+Location:(358, 230). Time Created: 178459. Obliterated at:392162.
+Location:(15, 157). Time Created: 184102. Obliterated at:223232.
+Location:(268, 294). Time Created: 185176. Obliterated at:363131.
+Location:(369, 417). Time Created: 185456. Obliterated at:213681.
+Location:(153, 64). Time Created: 187119. Is still intact.
+Location:(132, 106). Time Created: 187410. Obliterated at:267442.
+Location:(322, 219). Time Created: 187554. Obliterated at:401785.
+Location:(225, 153). Time Created: 188508. Obliterated at:281087.
+Location:(470, 338). Time Created: 188509. Obliterated at:232050.
+Location:(45, 472). Time Created: 188605. Obliterated at:290783.
+Location:(241, 86). Time Created: 188761. Obliterated at:200491.
+Location:(0, 99). Time Created: 189911. Is still intact.
+Location:(386, 492). Time Created: 190377. Is still intact.
+Location:(402, 459). Time Created: 193429. Obliterated at:285489.
+Location:(421, 412). Time Created: 194162. Obliterated at:285489.
+Location:(209, 499). Time Created: 194173. Obliterated at:324782.
+Location:(158, 470). Time Created: 197026. Obliterated at:309728.
+Location:(104, 218). Time Created: 197636. Obliterated at:256643.
+Location:(289, 450). Time Created: 198019. Obliterated at:397078.
+Location:(420, 3). Time Created: 198973. Obliterated at:328383.
+Location:(165, 260). Time Created: 200372. Obliterated at:242810.
+Location:(240, 74). Time Created: 200491. Is still intact.
+Location:(77, 338). Time Created: 203727. Obliterated at:388377.
+Location:(253, 136). Time Created: 203749. Obliterated at:274746.
+Location:(188, 2). Time Created: 209643. Obliterated at:326343.
+Location:(283, 370). Time Created: 210037. Obliterated at:326524.
+Location:(311, 492). Time Created: 210508. Is still intact.
+Location:(415, 291). Time Created: 211610. Obliterated at:248773.
+Location:(136, 206). Time Created: 212250. Obliterated at:268888.
+Location:(387, 423). Time Created: 213681. Obliterated at:218284.
+Location:(67, 306). Time Created: 214938. Obliterated at:277565.
+Location:(210, 229). Time Created: 216263. Obliterated at:228528.
+Location:(13, 355). Time Created: 218096. Obliterated at:419383.
+Location:(392, 404). Time Created: 218284. Obliterated at:314732.
+Location:(201, 108). Time Created: 218366. Obliterated at:262590.
+Location:(392, 190). Time Created: 219802. Is still intact.
+Location:(350, 49). Time Created: 220027. Obliterated at:407148.
+Location:(296, 132). Time Created: 220047. Obliterated at:377414.
+Location:(214, 192). Time Created: 222024. Obliterated at:314132.
+Location:(491, 3). Time Created: 222933. Obliterated at:440867.
+Location:(0, 132). Time Created: 223232. Is still intact.
+Location:(255, 345). Time Created: 223603. Obliterated at:249439.
+Location:(467, 161). Time Created: 223649. Obliterated at:230336.
+Location:(318, 319). Time Created: 223987. Is still intact.
+Location:(89, 13). Time Created: 224498. Obliterated at:266703.
+Location:(158, 326). Time Created: 225290. Obliterated at:232495.
+Location:(210, 225). Time Created: 228528. Obliterated at:301681.
+Location:(148, 421). Time Created: 229428. Obliterated at:296284.
+Location:(456, 175). Time Created: 230336. Obliterated at:283240.
+Location:(464, 323). Time Created: 232050. Obliterated at:354552.
+Location:(129, 323). Time Created: 232495. Obliterated at:375101.
+Location:(23, 13). Time Created: 233054. Obliterated at:262464.
+Location:(145, 34). Time Created: 233884. Is still intact.
+Location:(189, 60). Time Created: 234168. Obliterated at:309155.
+Location:(410, 78). Time Created: 238230. Obliterated at:283312.
+Location:(172, 254). Time Created: 242810. Obliterated at:255238.
+Location:(264, 31). Time Created: 242949. Obliterated at:278350.
+Location:(352, 439). Time Created: 243865. Obliterated at:264074.
+Location:(23, 285). Time Created: 244464. Is still intact.
+Location:(237, 439). Time Created: 246387. Obliterated at:284251.
+Location:(393, 282). Time Created: 248773. Obliterated at:339308.
+Location:(241, 358). Time Created: 249439. Obliterated at:397962.
+Location:(377, 340). Time Created: 249679. Obliterated at:286351.
+Location:(493, 313). Time Created: 254636. Obliterated at:354552.
+Location:(164, 330). Time Created: 254842. Obliterated at:277643.
+Location:(167, 270). Time Created: 255238. Obliterated at:259112.
+Location:(81, 185). Time Created: 256398. Obliterated at:315023.
+Location:(90, 234). Time Created: 256643. Obliterated at:305221.
+Location:(180, 274). Time Created: 259112. Obliterated at:289349.
+Location:(229, 292). Time Created: 260133. Obliterated at:297296.
+Location:(91, 64). Time Created: 260343. Obliterated at:333443.
+Location:(301, 258). Time Created: 261020. Obliterated at:300554.
+Location:(42, 18). Time Created: 262464. Is still intact.
+Location:(14, 168). Time Created: 262508. Is still intact.
+Location:(216, 93). Time Created: 262590. Obliterated at:309155.
+Location:(238, 396). Time Created: 263226. Is still intact.
+Location:(455, 54). Time Created: 263364. Obliterated at:265973.
+Location:(345, 436). Time Created: 264074. Obliterated at:283498.
+Location:(496, 410). Time Created: 264344. Obliterated at:352183.
+Location:(440, 45). Time Created: 265973. Obliterated at:367581.
+Location:(240, 258). Time Created: 265974. Obliterated at:301681.
+Location:(116, 0). Time Created: 266703. Is still intact.
+Location:(111, 89). Time Created: 267442. Obliterated at:333443.
+Location:(5, 205). Time Created: 267966. Obliterated at:457728.
+Location:(118, 198). Time Created: 268888. Obliterated at:280814.
+Location:(121, 161). Time Created: 271284. Obliterated at:303448.
+Location:(106, 283). Time Created: 272063. Obliterated at:277565.
+Location:(248, 116). Time Created: 274746. Obliterated at:374123.
+Location:(69, 401). Time Created: 276598. Is still intact.
+Location:(85, 303). Time Created: 277565. Obliterated at:310810.
+Location:(158, 334). Time Created: 277643. Obliterated at:324629.
+Location:(290, 19). Time Created: 278350. Obliterated at:293567.
+Location:(117, 438). Time Created: 279692. Obliterated at:313427.
+Location:(338, 399). Time Created: 280118. Obliterated at:321125.
+Location:(147, 202). Time Created: 280814. Obliterated at:378061.
+Location:(211, 133). Time Created: 281087. Is still intact.
+Location:(129, 366). Time Created: 281402. Obliterated at:294094.
+Location:(445, 190). Time Created: 283240. Obliterated at:290627.
+Location:(403, 74). Time Created: 283312. Obliterated at:318373.
+Location:(370, 439). Time Created: 283498. Obliterated at:409227.
+Location:(234, 428). Time Created: 284251. Is still intact.
+Location:(470, 212). Time Created: 284304. Is still intact.
+Location:(342, 170). Time Created: 284632. Obliterated at:369839.
+Location:(353, 106). Time Created: 285205. Obliterated at:429646.
+Location:(409, 434). Time Created: 285489. Obliterated at:332819.
+Location:(362, 347). Time Created: 286351. Obliterated at:332156.
+Location:(89, 34). Time Created: 288312. Obliterated at:425710.
+Location:(159, 288). Time Created: 289349. Is still intact.
+Location:(453, 179). Time Created: 290627. Obliterated at:304438.
+Location:(63, 490). Time Created: 290783. Is still intact.
+Location:(274, 14). Time Created: 293567. Is still intact.
+Location:(138, 365). Time Created: 294094. Obliterated at:319031.
+Location:(72, 433). Time Created: 295714. Obliterated at:409248.
+Location:(165, 401). Time Created: 296284. Obliterated at:355868.
+Location:(231, 288). Time Created: 297296. Obliterated at:363131.
+Location:(491, 50). Time Created: 298601. Is still intact.
+Location:(294, 274). Time Created: 300554. Obliterated at:307000.
+Location:(283, 419). Time Created: 300990. Obliterated at:329790.
+Location:(221, 244). Time Created: 301681. Is still intact.
+Location:(127, 146). Time Created: 303448. Obliterated at:386310.
+Location:(465, 176). Time Created: 304438. Obliterated at:352940.
+Location:(117, 227). Time Created: 305221. Obliterated at:349879.
+Location:(441, 435). Time Created: 305847. Obliterated at:318012.
+Location:(309, 251). Time Created: 307000. Obliterated at:385318.
+Location:(413, 228). Time Created: 307360. Obliterated at:355344.
+Location:(279, 258). Time Created: 307712. Obliterated at:385318.
+Location:(242, 11). Time Created: 308088. Is still intact.
+Location:(28, 440). Time Created: 308938. Obliterated at:350990.
+Location:(209, 80). Time Created: 309155. Obliterated at:405538.
+Location:(341, 453). Time Created: 309168. Obliterated at:316665.
+Location:(154, 448). Time Created: 309728. Obliterated at:369841.
+Location:(80, 282). Time Created: 310810. Obliterated at:356053.
+Location:(313, 23). Time Created: 312358. Is still intact.
+Location:(119, 451). Time Created: 313427. Obliterated at:387660.
+Location:(189, 194). Time Created: 314132. Obliterated at:375468.
+Location:(406, 387). Time Created: 314732. Obliterated at:332819.
+Location:(71, 202). Time Created: 315023. Obliterated at:389664.
+Location:(342, 467). Time Created: 316665. Obliterated at:416471.
+Location:(53, 71). Time Created: 317393. Obliterated at:352530.
+Location:(457, 424). Time Created: 318012. Obliterated at:352183.
+Location:(395, 61). Time Created: 318373. Obliterated at:385907.
+Location:(116, 376). Time Created: 319031. Is still intact.
+Location:(343, 423). Time Created: 321125. Obliterated at:335583.
+Location:(160, 338). Time Created: 324629. Obliterated at:406768.
+Location:(223, 482). Time Created: 324782. Obliterated at:361069.
+Location:(207, 0). Time Created: 326343. Is still intact.
+Location:(280, 342). Time Created: 326524. Is still intact.
+Location:(367, 11). Time Created: 328213. Obliterated at:329747.
+Location:(407, 9). Time Created: 328383. Obliterated at:392410.
+Location:(388, 15). Time Created: 329747. Obliterated at:392410.
+Location:(304, 400). Time Created: 329790. Obliterated at:352868.
+Location:(371, 349). Time Created: 332156. Obliterated at:350797.
+Location:(410, 411). Time Created: 332819. Obliterated at:404460.
+Location:(103, 88). Time Created: 333443. Is still intact.
+Location:(352, 414). Time Created: 335583. Obliterated at:374744.
+Location:(389, 276). Time Created: 339308. Is still intact.
+Location:(245, 323). Time Created: 340010. Obliterated at:363131.
+Location:(313, 69). Time Created: 341060. Obliterated at:404105.
+Location:(144, 246). Time Created: 341255. Is still intact.
+Location:(274, 56). Time Created: 341952. Is still intact.
+Location:(402, 143). Time Created: 343896. Is still intact.
+Location:(48, 237). Time Created: 344860. Obliterated at:347634.
+Location:(182, 232). Time Created: 345296. Is still intact.
+Location:(47, 259). Time Created: 347634. Obliterated at:423849.
+Location:(103, 252). Time Created: 349879. Obliterated at:384847.
+Location:(385, 369). Time Created: 350797. Obliterated at:438721.
+Location:(22, 462). Time Created: 350990. Is still intact.
+Location:(182, 154). Time Created: 351501. Obliterated at:405481.
+Location:(470, 420). Time Created: 352183. Obliterated at:391227.
+Location:(37, 74). Time Created: 352530. Is still intact.
+Location:(307, 396). Time Created: 352868. Obliterated at:412902.
+Location:(490, 167). Time Created: 352940. Obliterated at:381949.
+Location:(495, 474). Time Created: 353426. Is still intact.
+Location:(489, 273). Time Created: 353985. Obliterated at:364644.
+Location:(492, 330). Time Created: 354552. Is still intact.
+Location:(419, 219). Time Created: 355344. Is still intact.
+Location:(190, 411). Time Created: 355868. Obliterated at:436607.
+Location:(62, 294). Time Created: 356053. Obliterated at:388377.
+Location:(115, 182). Time Created: 358510. Obliterated at:386310.
+Location:(198, 480). Time Created: 361069. Obliterated at:385333.
+Location:(251, 294). Time Created: 363131. Obliterated at:386905.
+Location:(297, 292). Time Created: 364545. Obliterated at:386876.
+Location:(465, 273). Time Created: 364644. Obliterated at:374713.
+Location:(409, 350). Time Created: 366527. Obliterated at:444155.
+Location:(455, 54). Time Created: 367581. Obliterated at:381629.
+Location:(335, 170). Time Created: 369839. Obliterated at:416478.
+Location:(160, 430). Time Created: 369841. Is still intact.
+Location:(444, 136). Time Created: 370935. Obliterated at:415493.
+Location:(192, 362). Time Created: 373157. Obliterated at:406768.
+Location:(358, 274). Time Created: 373414. Is still intact.
+Location:(243, 139). Time Created: 374123. Is still intact.
+Location:(462, 259). Time Created: 374713. Obliterated at:453631.
+Location:(365, 408). Time Created: 374744. Obliterated at:404460.
+Location:(117, 311). Time Created: 375101. Obliterated at:400297.
+Location:(216, 195). Time Created: 375468. Is still intact.
+Location:(426, 448). Time Created: 376815. Obliterated at:387854.
+Location:(292, 121). Time Created: 377414. Obliterated at:404105.
+Location:(155, 183). Time Created: 378061. Obliterated at:386310.
+Location:(443, 48). Time Created: 381629. Is still intact.
+Location:(499, 159). Time Created: 381949. Is still intact.
+Location:(400, 319). Time Created: 383924. Obliterated at:388650.
+Location:(110, 278). Time Created: 384847. Obliterated at:400297.
+Location:(303, 260). Time Created: 385318. Obliterated at:436584.
+Location:(203, 482). Time Created: 385333. Is still intact.
+Location:(383, 84). Time Created: 385907. Is still intact.
+Location:(134, 169). Time Created: 386310. Obliterated at:405741.
+Location:(295, 290). Time Created: 386876. Obliterated at:436584.
+Location:(244, 271). Time Created: 386905. Is still intact.
+Location:(117, 462). Time Created: 387660. Is still intact.
+Location:(413, 458). Time Created: 387854. Obliterated at:409227.
+Location:(65, 313). Time Created: 388377. Is still intact.
+Location:(422, 319). Time Created: 388650. Is still intact.
+Location:(146, 200). Time Created: 388782. Obliterated at:405741.
+Location:(48, 212). Time Created: 389664. Is still intact.
+Location:(245, 203). Time Created: 390845. Is still intact.
+Location:(468, 408). Time Created: 391227. Is still intact.
+Location:(354, 210). Time Created: 392162. Obliterated at:439289.
+Location:(383, 7). Time Created: 392410. Obliterated at:407148.
+Location:(306, 440). Time Created: 397078. Obliterated at:399175.
+Location:(245, 331). Time Created: 397962. Obliterated at:416429.
+Location:(291, 459). Time Created: 399175. Obliterated at:401455.
+Location:(114, 303). Time Created: 400297. Is still intact.
+Location:(280, 476). Time Created: 401455. Is still intact.
+Location:(305, 205). Time Created: 401785. Is still intact.
+Location:(323, 116). Time Created: 403765. Obliterated at:436599.
+Location:(303, 95). Time Created: 404105. Obliterated at:436599.
+Location:(392, 415). Time Created: 404460. Obliterated at:438721.
+Location:(156, 385). Time Created: 405139. Obliterated at:431279.
+Location:(179, 156). Time Created: 405481. Obliterated at:408537.
+Location:(197, 71). Time Created: 405538. Is still intact.
+Location:(278, 160). Time Created: 405702. Is still intact.
+Location:(123, 190). Time Created: 405741. Obliterated at:406180.
+Location:(131, 348). Time Created: 405818. Is still intact.
+Location:(140, 212). Time Created: 406180. Is still intact.
+Location:(188, 342). Time Created: 406768. Obliterated at:442557.
+Location:(372, 33). Time Created: 407148. Obliterated at:410659.
+Location:(177, 158). Time Created: 408537. Obliterated at:426736.
+Location:(386, 456). Time Created: 409227. Is still intact.
+Location:(46, 434). Time Created: 409248. Is still intact.
+Location:(352, 15). Time Created: 410659. Obliterated at:418612.
+Location:(452, 436). Time Created: 412001. Obliterated at:422172.
+Location:(314, 384). Time Created: 412902. Obliterated at:443233.
+Location:(433, 159). Time Created: 415493. Obliterated at:435929.
+Location:(241, 315). Time Created: 416429. Obliterated at:420221.
+Location:(335, 443). Time Created: 416471. Is still intact.
+Location:(341, 169). Time Created: 416478. Obliterated at:440986.
+Location:(356, 27). Time Created: 418612. Is still intact.
+Location:(34, 354). Time Created: 419383. Is still intact.
+Location:(258, 320). Time Created: 420221. Is still intact.
+Location:(466, 460). Time Created: 422172. Is still intact.
+Location:(33, 248). Time Created: 423849. Is still intact.
+Location:(74, 57). Time Created: 425710. Obliterated at:447762.
+Location:(172, 142). Time Created: 426736. Is still intact.
+Location:(421, 254). Time Created: 428127. Is still intact.
+Location:(361, 134). Time Created: 429646. Is still intact.
+Location:(137, 407). Time Created: 431279. Is still intact.
+Location:(432, 2). Time Created: 432641. Is still intact.
+Location:(492, 443). Time Created: 432868. Is still intact.
+Location:(112, 160). Time Created: 432958. Obliterated at:440761.
+Location:(345, 80). Time Created: 435261. Is still intact.
+Location:(451, 149). Time Created: 435929. Is still intact.
+Location:(300, 271). Time Created: 436584. Is still intact.
+Location:(307, 107). Time Created: 436599. Is still intact.
+Location:(183, 388). Time Created: 436607. Is still intact.
+Location:(390, 395). Time Created: 438721. Is still intact.
+Location:(353, 202). Time Created: 439289. Is still intact.
+Location:(87, 147). Time Created: 440761. Is still intact.
+Location:(480, 6). Time Created: 440867. Is still intact.
+Location:(332, 145). Time Created: 440986. Is still intact.
+Location:(496, 87). Time Created: 441123. Is still intact.
+Location:(179, 343). Time Created: 442557. Is still intact.
+Location:(336, 380). Time Created: 443233. Is still intact.
+Location:(385, 346). Time Created: 444155. Is still intact.
+Location:(194, 294). Time Created: 447585. Is still intact.
+Location:(73, 71). Time Created: 447762. Is still intact.
+Location:(428, 366). Time Created: 449567. Is still intact.
+Location:(201, 162). Time Created: 451472. Is still intact.
+Location:(477, 261). Time Created: 453631. Is still intact.
+Location:(12, 221). Time Created: 457728. Is still intact.

@@ -13,8 +13,11 @@ class Impactor(object):
 			print "Value is not an integer. Please use an integer."
 			raise TypeError
 
+		#tuple of x, y coordinates
 		self.loc = location
+		#time created
 		self.creation = time
+		#-1 if not destroyed, otherwise time destroyed
 		self.obliterated = -1
 
 	def getLoc(self):
@@ -34,13 +37,13 @@ class Impactor(object):
 
 	def __str__(self):
 		if(self.obliterated < 0):
-			return ("Location:" + str(self.loc) + ". Time Created: " + str(self.creation) + ". Exists.")
+			return ("Location:" + str(self.loc) + ". Time Created: " + str(self.creation) + ". Is still intact.")
 		else:
 			return ("Location:" + str(self.loc) + ". Time Created: " + str(self.creation) + ". Obliterated at:" + str(self.obliterated) + ".")
 
 if __name__ == "__main__":
-	dingus = impactor((1,2), 50)
-	dodongo = impactor((4, 1), 100)
+	dingus = Impactor((1,2), 50)
+	dodongo = Impactor((4, 1), 100)
 	print(dingus)
 	print(dodongo)
 	dingus.setOblit(100)
